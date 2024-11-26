@@ -62,6 +62,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Penguinmans32/Penguinmans32/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/Penguinmans32/Penguinmans32/blob/output/snake.svg)
 ###
