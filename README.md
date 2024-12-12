@@ -96,18 +96,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- Spotify Now Playing -->
-<h2 align="center">🎵 Vibing to:</h2>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lnn6v5p2qgrilpr3hvx5mihknm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-</div>
-
-<div align="center">
-  <h3>🏃‍♂️ Current Status</h3>
-  <img src="https://progress-bar.dev/99/?title=Coding&width=500&color=ff69b4"/>
-  <img src="https://progress-bar.dev/80/?title=Learning&width=500&color=54aeff"/>
-  <img src="https://progress-bar.dev/60/?title=Sleeping&width=500&color=00ff00"/>
-</div>
 
 <div align="center">
   <img src="https://github.com/Penguinmans32/Penguinmans32/blob/output/snake.svg" />
