@@ -1,57 +1,49 @@
-<br clear="both">
+<h1 align="center">👋 Hello, I'm Penguinmans32</h1>
 
-<h4 align="left">Why are you here? Penguin</h4>
-
-###
+<p align="center">
+  <a href="https://github.com/Penguinmans32">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8F8F8&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Penguinmans32&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Penguinmans32&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://media4.giphy.com/media/nguAwtOo4nxAY/200w.gif?cid=6c09b952gejhz6ux1ueklfnps9sapshcyk0uzaq484larqjn&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
 </div>
 
-###
+## 📊 GitHub Stats
 
-<img align="right" height="150" src="https://media4.giphy.com/media/nguAwtOo4nxAY/200w.gif?cid=6c09b952gejhz6ux1ueklfnps9sapshcyk0uzaq484larqjn&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Penguinmans32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Penguinmans32&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguinmans32&theme=tokyonight&hide_border=true&layout=compact" height="150" />
+</div>
 
-###
+## 🛠️ Technologies & Tools
 
-<br clear="both">
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+  
+</div>
 
 ![Snake animation](https://github.com/Penguinmans32/Penguinmans32/blob/output/snake.svg)
-###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Penguinmans32&color=blueviolet&style=for-the-badge" />
+</div>
