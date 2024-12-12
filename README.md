@@ -49,10 +49,10 @@
 <h2 align="center">🌟 Current Projects 🌟</h2>
 
 <div align="center">
-  <a href="https://github.com/Penguinmans32/project1">
+  <a href="https://github.com/Penguinmans32/SavorSpace-Frontend">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=SavorSpace-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" />
   </a>
-  <a href="https://github.com/Penguinmans32/project2">
+  <a href="https://github.com/Penguinmans32/PortFolio">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=PortFolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" />
   </a>
 </div>
