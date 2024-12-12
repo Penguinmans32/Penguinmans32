@@ -49,15 +49,6 @@
 <h2 align="center">🌟 Current Projects 🌟</h2>
 
 <div align="center">
-  <a href="https://github.com/Penguinmans32/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" />
-  </a>
-  <a href="https://github.com/Penguinmans32/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://github.com/Penguinmans32/Penguinmans32/blob/output/snake.svg" />
 </div>
 
