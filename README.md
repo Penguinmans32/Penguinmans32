@@ -1,49 +1,69 @@
-<h1 align="center">👋 Hello, I'm Penguinmans32</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<h1 align="center">
+  <img src="https://media4.giphy.com/media/nguAwtOo4nxAY/200w.gif" width="50px">
+  Welcome to Penguinmans32's Profile!
+  <img src="https://media4.giphy.com/media/nguAwtOo4nxAY/200w.gif" width="50px">
+</h1>
 
 <p align="center">
   <a href="https://github.com/Penguinmans32">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8F8F8&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F8F8F8&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+New+Things+%F0%9F%8C%B1;Penguin+Enthusiast+%F0%9F%90%A7" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/nguAwtOo4nxAY/200w.gif?cid=6c09b952gejhz6ux1ueklfnps9sapshcyk0uzaq484larqjn&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Custom%20Badges-orange?style=for-the-badge&logo=package&logoColor=white"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://custom-icon-badges.demolab.com/github/followers/Penguinmans32?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </div>
 
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Penguinmans32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Penguinmans32&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Penguinmans32&theme=darkhub&no-frame=true&column=7&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Penguinmans32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff&text_color=C9D1D9&ring_color=00ffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Penguinmans32&theme=tokyonight&hide_border=true&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguinmans32&theme=tokyonight&hide_border=true&layout=compact" height="150" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguinmans32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff" />
+  <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=Penguinmans32&custom_title=Contribution%20Graph&bg_color=0D1117&color=00ffff&line=00ffff&point=00ffff&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
 </div>
 
-## 🛠️ Technologies & Tools
+<h2 align="center">🛠️ Technologies & Tools 🛠️</h2>
 
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-  
+  <img src="https://skillicons.dev/icons?i=js,react,python,cpp,java,html,css,django,git,mysql,vim,androidstudio,figma,gradle&theme=dark" />
 </div>
 
-![Snake animation](https://github.com/Penguinmans32/Penguinmans32/blob/output/snake.svg)
+<h2 align="center">🌟 Current Projects 🌟</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Penguinmans32&color=blueviolet&style=for-the-badge" />
+  <a href="https://github.com/Penguinmans32/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" />
+  </a>
+  <a href="https://github.com/Penguinmans32/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" />
+  </a>
 </div>
+
+<div align="center">
+  <img src="https://github.com/Penguinmans32/Penguinmans32/blob/output/snake.svg" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Penguinmans32/count.svg" />
+</div>
+
+<!-- Cool Wave Pattern -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
