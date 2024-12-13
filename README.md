@@ -57,18 +57,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Featured Project 1</h3>
-        <div align="center">
-          <a href="https://github.com/Penguinmans32/SavorSpace-Frontend" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=SavorSpace-Frontend&theme=radical&hide_border=true" width="100%" alt="SavorSpace Frontend"/>
-          </a>
-          <a href="https://github.com/Penguinmans32/SavorSpace-Frontend" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20Project-brightgreen?style=for-the-badge&logo=github" width="140" height="30" alt="View Project"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Featured Project 2</h3>
+        <h3 align="center">PortFolio</h3>
         <div align="center">
           <a href="https://penguinman.me/" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=PortFolio&theme=radical&hide_border=true" width="100%" alt="Portfolio"/>
