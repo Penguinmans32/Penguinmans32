@@ -59,28 +59,36 @@
 </h2>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <!-- Project Card 1 -->
-    <div style="width: 45%; min-width: 300px; margin: 10px;">
-      <a href="https://penguinman.me/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=PortFolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" width="100%"/>
-      </a>
-      <p align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
+    <div style="background: #1a1b27; border-radius: 10px; padding: 15px; margin: 10px; border: 1px solid #2f2f4a;">
+      <h3 style="color: #00ffff;">Portfolio Website</h3>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <p style="color: #c9d1d9; margin: 10px 0;">My personal portfolio website showcasing my projects and skills</p>
+      <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
         <a href="https://penguinman.me/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
         </a>
-        <a href="https://github.com/Penguinmans32/PortFolio" target="_blank">
+        <a href="https://github.com/Penguinmans32/Portfolio" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
+      </div>
     </div>
-
-    <!-- You can add more project cards following the same structure -->
+    <div style="background: #1a1b27; border-radius: 10px; padding: 15px; margin: 10px; border: 1px solid #2f2f4a;">
+      <h3 style="color: #00ffff;">Penguinman</h3>
+      <img src="https://img.shields.io/badge/Tech_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <p style="color: #c9d1d9; margin: 10px 0;">Yeah just Penguin the Penguin</p>
+      <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+        <a href="your-demo-link" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+        </a>
+        <a href="your-repo-link" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </div>
+    
   </div>
 </div>
 
