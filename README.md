@@ -70,10 +70,10 @@
       <td width="50%">
         <h3 align="center">Featured Project 2</h3>
         <div align="center">
-          <a href="https://penguinmans32.github.io/PortFolio/" target="_blank">
+          <a href="https://penguinman.me/" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=PortFolio&theme=radical&hide_border=true" width="100%" alt="Portfolio"/>
           </a>
-          <a href="https://penguinmans32.github.io/PortFolio/" target="_blank">
+          <a href="https://penguinman.me/" target="_blank">
             <img src="https://img.shields.io/badge/Live-View%20Portfolio-blue?style=for-the-badge&logo=netlify" width="140" height="30" alt="Live Portfolio"/>
           </a>
         </div>
