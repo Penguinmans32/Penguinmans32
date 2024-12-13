@@ -52,24 +52,40 @@
 </div>
 
 <!-- Portfolio Section -->
-<h2 align="center">🎨 Portfolio Highlights 🎨</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  Featured Projects
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</h2>
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">PortFolio</h3>
-        <div align="center">
-          <a href="https://penguinman.me/" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=PortFolio&theme=radical&hide_border=true" width="100%" alt="Portfolio"/>
-          </a>
-          <a href="https://penguinman.me/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-View%20Portfolio-blue?style=for-the-badge&logo=netlify" width="140" height="30" alt="Live Portfolio"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Project Card 1 -->
+    <div style="width: 45%; min-width: 300px; margin: 10px;">
+      <a href="https://penguinman.me/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Penguinmans32&repo=PortFolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff" width="100%"/>
+      </a>
+      <p align="center">
+        <a href="https://penguinman.me/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Penguinmans32/PortFolio" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </div>
+
+    <!-- You can add more project cards following the same structure -->
+  </div>
 </div>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Skills Section with Animation -->
 <h2 align="center">
