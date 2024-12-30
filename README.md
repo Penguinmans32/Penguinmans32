@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://penguinmans32.github.io/PortFolio/" target="_blank">
+  <a href="[https://penguinman.me/](https://penguinman.me/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://custom-icon-badges.demolab.com/github/followers/Penguinmans32?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
